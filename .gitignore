@@ -1,0 +1,9 @@
+# Ignore folders and files
+/output
+/pyspark-venv
+.idea
+/src/spark-warehouse
+/app-logs
+/.DS_Store
+/lib/__pycache__
+/src/config/__pycache__
