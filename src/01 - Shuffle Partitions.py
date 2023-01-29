@@ -11,7 +11,7 @@ from config.definitions import DATA_DIR, OUTPUT_DIR
 
 if __name__ == "__main__":
     spark = SparkSession.builder \
-        .appName("PySpark Partition Example") \
+        .appName("PySpark Shuffle Example") \
         .getOrCreate()
 
     logger = Log4j(spark)
@@ -28,23 +28,23 @@ if __name__ == "__main__":
 
     # Let's group by and write the data back
     # x = df.groupBy(df.Country).count()
-    # print(type(x))
-    # print(x.count())
+    # # print(type(x))
+    # print(x)
 
-    df.groupBy(df.Country)\
-        .count()\
-        .write \
-        .mode('overwrite') \
-        .csv(f'{OUTPUT_DIR}/shuffle-partitions')
+    # df.groupBy(df.Country)\
+    #     .count()\
+    #     .write \
+    #     .mode('overwrite') \
+    #     .csv(f'{OUTPUT_DIR}/shuffle-partitions')
 
-    # # # check the partitions, you will get 200
+    # # # # check the partitions, you will get 200
     # print(spark.conf.get('spark.sql.shuffle.partitions'))
-    # # #
-    # # # Now lets set up the shuffle partitions as 5
-    # spark.conf.set('spark.sql.shuffle.partitions', '5')
-    # # # # #
-    # # # # # # The same job will have 5 shuffle partitions now
     # # # #
+    # # # # Now lets set up the shuffle partitions as 5
+    # spark.conf.set('spark.sql.shuffle.partitions', '5')
+    # # # # # # #
+    # # # # # # # # The same job will have 5 shuffle partitions now
+    # # # # # #
     # df.groupBy(df.Country) \
     #     .count() \
     #     .write \
