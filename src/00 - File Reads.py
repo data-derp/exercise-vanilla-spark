@@ -1,10 +1,10 @@
 from pyspark.sql import *
 from lib.logger import Log4j
-from lib.utils import *
+# from lib.utils import *
 from config.definitions import DATA_DIR
 
 if __name__ == "__main__":
-    conf = get_spark_app_config()
+    # conf = get_spark_app_config()
 
     spark = SparkSession.builder \
         .appName("Spark File Reads") \
@@ -17,7 +17,7 @@ if __name__ == "__main__":
     file_path1 = f"{DATA_DIR}/ratings.csv"
 
     # # should show you only 1 job
-    # ratings_df = spark.read.csv(file_path1)
+    ratings_df = spark.read.csv(file_path1)
     # ratings_df.show(truncate=False)
 
     # In fact it will be the same when you keep header equal to true
@@ -70,9 +70,9 @@ if __name__ == "__main__":
 
     # Let us look at json dataset too. For jSON, the data will be read at once for all
     # the partitions. That's how jSON works with spark
-    file_path3 = f"{DATA_DIR}/iot_devices.json"
-    json_df = spark.read.json(file_path3)
-    json_df.show()
+    # file_path3 = f"{DATA_DIR}/iot_devices.json"
+    # json_df = spark.read.json(file_path3)
+    # json_df.show()
 
     input("Please ENTER")
 
