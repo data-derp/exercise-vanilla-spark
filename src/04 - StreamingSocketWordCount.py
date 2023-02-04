@@ -25,8 +25,12 @@ words = lines.select(
    ).alias("word")
 )
 
+print(words.printSchema())
+
 # Generate running word count
 wordCounts = words.groupBy("word").count()
+
+print(wordCounts.printSchema())
 
 # Keep the partitions as 3
 spark.conf.set("spark.sql.shuffle.partitions", "3")

@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     temp_df.repartition("country")\
         .write.mode('overwrite').csv(f'{OUTPUT_DIR}/repartition')
-
+    #
     input("Press Enter")
 
     spark.stop()

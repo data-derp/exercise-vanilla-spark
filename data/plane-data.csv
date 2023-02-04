@@ -1,0 +1,1001 @@
+tailnum,type,manufacturer,issue_date,model,status,aircraft_type,engine_type,year
+N050AA,null,null,null,null,null,null,null,null
+N051AA,null,null,null,null,null,null,null,null
+N052AA,null,null,null,null,null,null,null,null
+N054AA,null,null,null,null,null,null,null,null
+N055AA,null,null,null,null,null,null,null,null
+N056AA,null,null,null,null,null,null,null,null
+N057AA,null,null,null,null,null,null,null,null
+N058AA,null,null,null,null,null,null,null,null
+N059AA,null,null,null,null,null,null,null,null
+N060AA,null,null,null,null,null,null,null,null
+N061AA,null,null,null,null,null,null,null,null
+N062AA,null,null,null,null,null,null,null,null
+N063AA,null,null,null,null,null,null,null,null
+N064AA,null,null,null,null,null,null,null,null
+N065AA,null,null,null,null,null,null,null,null
+N066AA,null,null,null,null,null,null,null,null
+N067AA,null,null,null,null,null,null,null,null
+N068AA,null,null,null,null,null,null,null,null
+N069AA,null,null,null,null,null,null,null,null
+N070AA,null,null,null,null,null,null,null,null
+N071AA,null,null,null,null,null,null,null,null
+N072AA,null,null,null,null,null,null,null,null
+N073AA,null,null,null,null,null,null,null,null
+N074AA,null,null,null,null,null,null,null,null
+N075AA,null,null,null,null,null,null,null,null
+N076AA,null,null,null,null,null,null,null,null
+N077AA,null,null,null,null,null,null,null,null
+N078AA,null,null,null,null,null,null,null,null
+N079AA,null,null,null,null,null,null,null,null
+N080AA,null,null,null,null,null,null,null,null
+N081AA,null,null,null,null,null,null,null,null
+N082AA,null,null,null,null,null,null,null,null
+N083AA,null,null,null,null,null,null,null,null
+N084AA,null,null,null,null,null,null,null,null
+N10156,Corporation,EMBRAER,02/13/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N102UW,Corporation,AIRBUS INDUSTRIE,05/26/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N10323,Corporation,BOEING,07/01/1997,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N103US,Corporation,AIRBUS INDUSTRIE,06/18/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N104UA,Corporation,BOEING,01/26/1998,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N104UW,Corporation,AIRBUS INDUSTRIE,07/02/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N10575,Corporation,EMBRAER,06/24/2003,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N105UA,Corporation,BOEING,10/15/2007,747-451,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N105UW,Corporation,AIRBUS INDUSTRIE,07/22/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N106US,Corporation,AIRBUS INDUSTRIE,08/05/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N107UA,Corporation,BOEING,08/24/1998,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N107US,Corporation,AIRBUS INDUSTRIE,08/17/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N108UW,Corporation,AIRBUS INDUSTRIE,09/03/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N109UW,Corporation,AIRBUS INDUSTRIE,09/10/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N110UW,Corporation,AIRBUS INDUSTRIE,11/22/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N11106,Corporation,EMBRAER,06/25/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11107,Corporation,EMBRAER,06/25/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11109,Corporation,EMBRAER,06/25/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11113,Corporation,EMBRAER,06/25/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11119,Corporation,EMBRAER,01/08/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11121,Corporation,EMBRAER,01/22/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N11127,Corporation,EMBRAER,03/10/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N11137,Corporation,EMBRAER,05/21/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N11140,Corporation,EMBRAER,06/16/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N11150,Corporation,EMBRAER,10/21/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N11155,Corporation,EMBRAER,01/28/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N11164,Corporation,EMBRAER,06/09/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N11165,Corporation,EMBRAER,06/24/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N11176,Corporation,EMBRAER,01/12/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N11181,Corporation,EMBRAER,04/13/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11184,Corporation,EMBRAER,05/25/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11187,Corporation,EMBRAER,07/13/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11189,Corporation,EMBRAER,08/11/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11191,Corporation,EMBRAER,09/14/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11192,Corporation,EMBRAER,10/05/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11193,Corporation,EMBRAER,10/19/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11194,Corporation,EMBRAER,11/09/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N11199,Corporation,EMBRAER,02/22/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N111US,Corporation,AIRBUS INDUSTRIE,11/29/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N11206,Corporation,BOEING,07/27/2000,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N112US,Corporation,AIRBUS INDUSTRIE,12/22/1999,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N113UW,Corporation,AIRBUS INDUSTRIE,01/18/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N114UW,Corporation,AIRBUS INDUSTRIE,01/24/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N11526,Corporation,EMBRAER,04/04/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N11535,Corporation,EMBRAER,07/10/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N11536,Corporation,EMBRAER,07/10/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N11539,Corporation,EMBRAER,05/29/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N11544,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11547,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11548,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11551,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11565,Corporation,EMBRAER,08/23/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N11612,Corporation,BOEING,07/20/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N11641,Corporation,BOEING,08/29/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N11651,Corporation,BOEING,12/31/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N11656,Corporation,BOEING,02/22/2008,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N116UA,Corporation,BOEING,12/29/1998,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N117UA,Corporation,BOEING,02/01/1999,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N117UW,Corporation,AIRBUS INDUSTRIE,08/11/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N118US,Corporation,AIRBUS INDUSTRIE,09/14/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N119UA,Corporation,BOEING,03/31/1999,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N119US,Corporation,AIRBUS INDUSTRIE,08/18/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N1200K,Corporation,BOEING,04/13/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N1201P,Corporation,BOEING,04/22/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N120UA,Corporation,BOEING,04/13/1999,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N12109,Corporation,BOEING,12/07/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N12114,Corporation,BOEING,07/05/1995,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1995
+N12116,Corporation,BOEING,03/29/1996,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N12122,Corporation,EMBRAER,01/22/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N12125,Corporation,BOEING,02/02/1998,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N12126,Corporation,EMBRAER,02/12/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N12135,Corporation,EMBRAER,05/07/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N12136,Corporation,EMBRAER,05/14/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N12142,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N12145,Corporation,EMBRAER,08/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N12157,Corporation,EMBRAER,02/19/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N12160,Corporation,EMBRAER,04/14/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N12163,Corporation,EMBRAER,05/26/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N12166,Corporation,EMBRAER,07/28/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N12167,Corporation,EMBRAER,07/29/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N12172,Corporation,EMBRAER,10/27/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N12175,Corporation,EMBRAER,12/15/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N12195,Corporation,EMBRAER,12/07/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N121DE,Corporation,BOEING,06/09/1987,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1987
+N121UA,Corporation,BOEING,04/23/1999,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N121UW,Corporation,AIRBUS INDUSTRIE,09/22/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N12201,Corporation,EMBRAER,04/19/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N12216,Corporation,BOEING,08/05/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N12218,Corporation,BOEING,08/17/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N12221,Corporation,BOEING,12/02/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N12225,Corporation,BOEING,12/22/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N12238,Corporation,BOEING,10/12/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N122UA,Corporation,BOEING,06/15/1999,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N122US,Corporation,AIRBUS INDUSTRIE,11/30/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N12313,Corporation,BOEING,10/18/1985,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1985
+N12318,Corporation,BOEING,07/18/2006,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N12319,Corporation,BOEING,07/18/2006,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N12322,Corporation,BOEING,06/30/1997,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N12327,Corporation,BOEING,05/05/2004,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N12349,Corporation,BOEING,10/04/2006,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N123UW,Corporation,AIRBUS INDUSTRIE,11/20/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N124DE,Corporation,BOEING,11/25/1987,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1987
+N124US,Corporation,AIRBUS INDUSTRIE,11/21/2000,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N12519,Corporation,EMBRAER,01/10/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N12528,Corporation,EMBRAER,05/31/2002,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N12530,Corporation,EMBRAER,05/31/2002,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N12540,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N12552,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N12563,Corporation,EMBRAER,06/27/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N12564,Corporation,EMBRAER,07/18/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N12567,Corporation,EMBRAER,08/26/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N12569,Corporation,EMBRAER,06/24/2003,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N125DL,Corporation,BOEING,02/06/2008,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1988
+N126AT,Corporation,BOEING,06/24/2004,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N126DL,Corporation,BOEING,02/04/2008,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1988
+N127DL,Corporation,BOEING,07/11/1988,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1988
+N128DL,Corporation,BOEING,07/13/1988,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1988
+N128UA,Corporation,BOEING,05/15/2000,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N12900,Corporation,EMBRAER,07/01/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N12921,Corporation,EMBRAER,12/14/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N12922,Corporation,EMBRAER,11/08/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N12924,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N12934,Corporation,EMBRAER,02/23/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N12946,Corporation,EMBRAER,07/22/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N12957,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N12967,Corporation,EMBRAER,06/18/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N12996,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N129DL,Corporation,BOEING,07/11/1988,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1988
+N1309T,Corporation,DOUGLAS,06/17/2004,DC-9-31,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1968
+N130DL,Corporation,BOEING,03/06/2007,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1988
+N13110,Corporation,BOEING,12/08/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N13113,Corporation,BOEING,04/12/1995,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1995
+N13118,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N13123,Corporation,EMBRAER,02/05/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N13124,Corporation,EMBRAER,02/05/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N13132,Corporation,EMBRAER,04/09/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N13133,Corporation,EMBRAER,04/16/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N13138,Corporation,BOEING,06/02/2000,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N13161,Corporation,EMBRAER,04/29/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N131DN,Corporation,BOEING,11/19/2007,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N13202,Corporation,EMBRAER,04/26/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N13248,Corporation,BOEING,12/07/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N132DN,Corporation,BOEING,02/15/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N1332U,Corporation,MCDONNELL DOUGLAS,12/22/1986,DC-9-31,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1969
+N1334U,Corporation,DOUGLAS,12/22/1986,DC-9-31,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1970
+N133DN,Corporation,BOEING,02/14/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N134DL,Corporation,BOEING,02/26/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N13538,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N13550,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N13553,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N13566,Corporation,EMBRAER,08/23/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N135DL,Corporation,BOEING,06/06/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N13624,Corporation,BOEING,02/07/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N136DL,Corporation,BOEING,06/18/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N13716,Corporation,BOEING,12/07/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N13718,Corporation,BOEING,01/26/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N13720,Corporation,BOEING,03/01/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N13750,Corporation,BOEING,06/07/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N137DL,Corporation,BOEING,11/01/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N138DL,Corporation,BOEING,01/21/1992,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N13903,Corporation,EMBRAER,07/02/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N13908,Corporation,EMBRAER,05/31/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N13913,Corporation,EMBRAER,05/25/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N13914,Corporation,EMBRAER,05/09/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N13929,Corporation,EMBRAER,11/29/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N13935,Corporation,EMBRAER,02/23/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N13936,Corporation,EMBRAER,02/23/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N13949,Corporation,EMBRAER,07/22/1998,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N13955,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N13956,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N13958,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N13964,Corporation,EMBRAER,06/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13965,Corporation,EMBRAER,06/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13968,Corporation,EMBRAER,06/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13969,Corporation,EMBRAER,09/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13970,Corporation,EMBRAER,09/20/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13975,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13978,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13979,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N13988,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N13989,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N13990,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N13992,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N13994,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N13995,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N13997,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N139DL,Corporation,BOEING,05/11/1992,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1992
+N1402A,Corporation,BOEING,09/29/1993,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1993
+N140LL,Corporation,BOEING,03/24/2008,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1993
+N14102,Corporation,BOEING,06/03/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N14105,Corporation,EMBRAER,06/24/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14106,Corporation,BOEING,09/23/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N14107,Corporation,BOEING,10/17/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N14115,Corporation,BOEING,08/15/1995,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1995
+N14116,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14117,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14118,Corporation,BOEING,03/28/1997,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14120,Corporation,BOEING,08/05/1997,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14121,Corporation,BOEING,08/01/1997,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14125,Corporation,EMBRAER,02/12/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N14143,Corporation,EMBRAER,07/17/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N14148,Corporation,EMBRAER,09/18/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N14153,Corporation,EMBRAER,12/10/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N14158,Corporation,EMBRAER,03/11/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N14162,Corporation,EMBRAER,05/10/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N14168,Corporation,EMBRAER,08/25/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N14171,Corporation,EMBRAER,10/20/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N14173,Corporation,EMBRAER,11/24/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N14174,Corporation,EMBRAER,12/08/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N14177,Corporation,EMBRAER,02/16/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N14179,Corporation,EMBRAER,03/09/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N14180,Corporation,EMBRAER,03/23/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N14186,Corporation,EMBRAER,06/29/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N14188,Corporation,EMBRAER,07/20/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N14198,Corporation,EMBRAER,02/08/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N14203,Corporation,EMBRAER,05/22/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N14204,Corporation,EMBRAER,06/21/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N14214,Corporation,BOEING,07/27/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14219,Corporation,BOEING,08/28/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14230,Corporation,BOEING,06/17/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14231,Corporation,BOEING,06/22/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14237,Corporation,BOEING,09/22/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14242,Corporation,BOEING,10/26/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14250,Corporation,BOEING,06/02/2000,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14308,Corporation,BOEING,09/24/1985,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1985
+N14320,Corporation,BOEING,02/17/2004,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N14324,Corporation,BOEING,07/01/1997,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N14325,Corporation,BOEING,05/21/2008,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N14334,Corporation,BOEING,09/02/1997,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N14335,Corporation,BOEING,09/02/1997,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N14336,Corporation,BOEING,06/20/2007,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N14337,Corporation,BOEING,04/17/2007,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N14341,Corporation,BOEING,04/17/2007,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N14342,Corporation,BOEING,04/17/2007,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N14346,Corporation,BOEING,09/15/1987,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N14347,Corporation,BOEING,10/16/1987,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N14358,Corporation,BOEING,03/22/2001,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N143DA,Corporation,BOEING,10/16/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N144DA,Corporation,BOEING,05/14/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14505,Corporation,EMBRAER,10/31/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N14508,Corporation,EMBRAER,11/01/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N14514,Corporation,EMBRAER,10/31/2000,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N14516,Corporation,EMBRAER,10/31/2000,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N14522,Corporation,EMBRAER,02/07/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14542,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14543,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14558,Corporation,EMBRAER,05/29/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N14562,Corporation,EMBRAER,06/27/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14568,Corporation,EMBRAER,06/24/2003,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14570,Corporation,EMBRAER,06/24/2003,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14573,Corporation,EMBRAER,10/01/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N14601,Corporation,BOEING,02/11/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N14604,Corporation,BOEING,02/16/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N14605,Corporation,BOEING,03/02/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N14609,Corporation,BOEING,05/05/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N14613,Corporation,BOEING,07/26/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N14628,Corporation,BOEING,04/19/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N14629,Corporation,BOEING,05/30/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1965
+N14639,Corporation,BOEING,08/01/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N14645,Corporation,BOEING,10/01/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N14652,Corporation,BOEING,01/23/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14653,Corporation,BOEING,01/27/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14654,Corporation,BOEING,02/11/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14655,Corporation,BOEING,02/12/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14664,Corporation,BOEING,05/15/2008,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14667,Corporation,BOEING,10/01/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14668,Corporation,BOEING,10/20/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14704,Corporation,BOEING,04/27/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N14731,Corporation,BOEING,09/30/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N14735,Corporation,BOEING,09/23/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N14902,Corporation,EMBRAER,07/03/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14904,Corporation,EMBRAER,07/03/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14905,Corporation,EMBRAER,07/03/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14907,Corporation,EMBRAER,05/31/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14916,Corporation,EMBRAER,04/19/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14920,Corporation,EMBRAER,01/30/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N14923,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N14925,Corporation,EMBRAER,11/29/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N14930,Corporation,EMBRAER,12/03/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14933,Corporation,EMBRAER,10/20/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14937,Corporation,EMBRAER,02/23/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14938,Corporation,EMBRAER,02/23/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14939,Corporation,EMBRAER,02/23/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14940,Corporation,EMBRAER,02/23/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14942,Corporation,EMBRAER,07/22/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N14943,Corporation,EMBRAER,07/22/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N14945,Corporation,EMBRAER,07/22/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N14947,Corporation,EMBRAER,07/22/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N14950,Corporation,EMBRAER,06/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14952,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14953,Corporation,EMBRAER,12/31/1998,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14959,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14960,Corporation,EMBRAER,12/31/1998,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N14972,Corporation,EMBRAER,09/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14974,Corporation,EMBRAER,09/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14977,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N14991,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N14993,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N14998,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N149AT,Corporation,BOEING,07/16/2004,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N1501P,Corporation,BOEING,04/22/1997,767-3P6,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N152DL,Corporation,BOEING,02/26/1997,767-3P6,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N153DL,Corporation,BOEING,02/14/1997,767-3P6,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N154AW,Corporation,BOEING,08/25/1999,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N154DL,Corporation,BOEING,05/01/1997,767-3P6,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N154SF,Corporation,CANADAIR,01/13/2003,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N15509,Corporation,EMBRAER,10/31/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N15527,Corporation,EMBRAER,04/05/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N15555,Corporation,EMBRAER,06/07/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N15572,Corporation,EMBRAER,10/02/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N15574,Corporation,EMBRAER,10/02/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N155AW,Corporation,BOEING,08/25/1999,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N155DL,Corporation,BOEING,06/13/1997,767-3P6,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N15659,Corporation,BOEING,02/04/2008,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N156AW,Corporation,BOEING,08/25/1999,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N156DL,Corporation,BOEING,07/22/1997,767-3P6,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N15710,Corporation,BOEING,09/01/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N15712,Corporation,BOEING,09/25/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N157AW,Corporation,BOEING,08/25/1999,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N158AW,Corporation,BOEING,08/25/1999,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N15910,Corporation,EMBRAER,06/20/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N15912,Corporation,EMBRAER,05/24/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N15926,Corporation,EMBRAER,11/29/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N15932,Corporation,EMBRAER,12/03/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N15941,Corporation,EMBRAER,02/25/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N15948,Corporation,EMBRAER,07/22/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N15973,Corporation,EMBRAER,09/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N15980,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N15983,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N15985,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N15986,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N1602,Corporation,BOEING,01/25/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N1603,Corporation,BOEING,02/08/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N1604R,Corporation,BOEING,04/29/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N1605,Corporation,BOEING,08/16/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N16065,Corporation,BOEING,06/14/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N1607B,Corporation,BOEING,04/24/2000,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N1608,Corporation,BOEING,04/24/2000,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N1609,Corporation,BOEING,04/26/2000,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N160AW,Corporation,BOEING,02/28/2006,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N1610D,Corporation,BOEING,04/27/2000,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N16112,Corporation,EMBRAER,06/25/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N1611B,Corporation,BOEING,05/16/2000,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N1612T,Corporation,BOEING,06/01/2001,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N1613B,Corporation,BOEING,08/13/2001,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N16147,Corporation,EMBRAER,09/10/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N16149,Corporation,EMBRAER,10/10/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N16151,Corporation,EMBRAER,11/12/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N16170,Corporation,EMBRAER,09/23/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N16178,Corporation,EMBRAER,02/16/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N16183,Corporation,EMBRAER,05/18/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N161UW,Corporation,AIRBUS INDUSTRIE,01/18/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N16217,Corporation,BOEING,08/03/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N16234,Corporation,BOEING,08/06/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N162UW,Corporation,AIRBUS INDUSTRIE,02/15/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N16301,Corporation,BOEING,04/07/2006,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1985
+N16310,Corporation,BOEING,09/26/1985,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1985
+N16339,Corporation,BOEING,03/28/2001,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N163US,Corporation,AIRBUS INDUSTRIE,03/01/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N164AW,Corporation,BOEING,07/06/2006,737-33A,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1986
+N16501,Corporation,EMBRAER,11/01/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N16502,Corporation,EMBRAER,11/01/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N16510,Corporation,EMBRAER,11/01/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N16511,Corporation,EMBRAER,10/31/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N16520,Corporation,EMBRAER,01/18/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N16525,Corporation,EMBRAER,03/21/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N16541,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N16546,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N16559,Corporation,EMBRAER,06/12/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N16561,Corporation,EMBRAER,06/27/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N16571,Corporation,EMBRAER,10/02/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N165US,Corporation,AIRBUS INDUSTRIE,02/21/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N16607,Corporation,BOEING,04/07/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N16617,null,null,null,null,null,null,null,null
+N16618,Corporation,BOEING,09/27/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N16632,Corporation,BOEING,07/12/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N16642,Corporation,BOEING,09/18/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N16646,Corporation,BOEING,12/02/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N16647,Corporation,BOEING,11/25/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N16648,Corporation,BOEING,12/05/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N16649,Corporation,BOEING,12/22/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N16650,Corporation,BOEING,12/24/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N166AT,Corporation,BOEING,09/15/2004,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N166AW,Corporation,BOEING,07/06/2006,737-33A,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1986
+N16701,Corporation,BOEING,03/30/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N16703,Corporation,BOEING,04/08/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N16709,Corporation,BOEING,09/01/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N16713,Corporation,BOEING,09/25/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N16732,Corporation,BOEING,08/25/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N167AT,Corporation,BOEING,10/12/2004,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N167US,Corporation,AIRBUS INDUSTRIE,03/26/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N168AT,Corporation,BOEING,09/29/2004,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N168AW,Corporation,BOEING,07/06/2006,737-33A,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1986
+N16911,Corporation,EMBRAER,06/12/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N16918,Corporation,EMBRAER,03/07/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N16919,Corporation,EMBRAER,02/22/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N16927,Corporation,EMBRAER,11/29/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N16944,Corporation,EMBRAER,07/22/1998,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N16951,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N16954,Corporation,EMBRAER,01/04/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N16961,Corporation,EMBRAER,06/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N16963,Corporation,EMBRAER,06/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N16976,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N16981,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N16987,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N16999,Corporation,EMBRAER,10/30/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N169AT,Corporation,BOEING,11/16/2004,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N169DZ,Corporation,BOEING,06/19/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N169UW,Corporation,AIRBUS INDUSTRIE,03/22/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N170US,Corporation,AIRBUS INDUSTRIE,05/21/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N17104,Corporation,BOEING,08/01/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N17105,Corporation,BOEING,08/19/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N17108,Corporation,EMBRAER,06/25/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N17115,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N17122,Corporation,BOEING,08/14/1997,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N17126,Corporation,BOEING,02/20/1998,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N17128,Corporation,BOEING,03/20/1998,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N17133,Corporation,BOEING,12/23/1998,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N17138,Corporation,EMBRAER,05/28/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N17139,Corporation,BOEING,02/07/2000,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N17146,Corporation,EMBRAER,08/25/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N17156,Corporation,CANADAIR,08/20/1997,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N17159,Corporation,EMBRAER,03/17/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N17169,Corporation,EMBRAER,09/01/2004,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N17175,Corporation,CANADAIR,01/07/1998,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N17185,Corporation,EMBRAER,06/15/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N17196,Corporation,EMBRAER,12/14/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N171DN,Corporation,BOEING,06/12/1990,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N171DZ,Corporation,BOEING,09/14/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N171US,Corporation,AIRBUS INDUSTRIE,04/10/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N17229,Corporation,BOEING,06/07/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N17231,Corporation,CANADAIR,07/01/1999,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N17233,Corporation,BOEING,07/27/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N17244,Corporation,BOEING,11/03/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N17245,Corporation,BOEING,11/08/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N17275,Corporation,BOMBARDIER INC,12/28/1999,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N172DN,Corporation,BOEING,06/25/1990,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N172DZ,Corporation,BOEING,09/25/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N172US,Corporation,AIRBUS INDUSTRIE,04/24/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N17321,Corporation,BOEING,02/17/2004,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N17326,Corporation,BOEING,06/13/2008,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N17328,Corporation,BOEING,08/08/1986,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N17329,Corporation,BOEING,07/16/2004,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1986
+N17337,Corporation,BOMBARDIER INC,07/03/2000,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N17344,Corporation,BOEING,04/17/2007,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N17345,Corporation,BOEING,04/17/2007,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N17356,Corporation,BOEING,09/02/2004,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N17358,Corporation,BOMBARDIER INC,12/29/2000,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N173AT,Corporation,BOEING,01/03/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N173DN,Corporation,BOEING,07/03/1990,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N173DZ,Corporation,BOEING,11/03/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N173UA,Corporation,BOEING,08/19/2004,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1989
+N173US,Corporation,AIRBUS INDUSTRIE,04/30/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N174AT,Corporation,BOEING,01/25/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N174DN,Corporation,BOEING,07/25/1990,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N174DZ,Corporation,BOEING,11/06/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N174UA,Corporation,BOEING,01/23/1990,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N174US,Corporation,AIRBUS INDUSTRIE,05/17/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,None
+N17507,Corporation,EMBRAER,10/31/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N17513,Corporation,EMBRAER,10/31/2000,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N17521,Corporation,EMBRAER,01/25/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N17524,Corporation,EMBRAER,03/14/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N17560,Corporation,EMBRAER,06/20/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N175AT,Corporation,BOEING,02/03/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N175AW,Corporation,BOEING,07/05/2006,737-33A,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1987
+N175DN,Corporation,BOEING,07/27/1990,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N175DZ,Corporation,BOEING,03/05/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N175UA,Corporation,BOEING,02/24/2006,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N17614,null,null,null,null,null,null,null,null
+N17619,Corporation,BOEING,10/28/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N17620,Corporation,BOEING,02/21/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N17627,Corporation,BOEING,04/14/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N17640,Corporation,BOEING,08/27/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N17644,Corporation,BOEING,09/30/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N17663,Corporation,BOEING,08/11/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N176AT,Corporation,BOEING,02/18/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N176DN,Corporation,BOEING,01/08/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N176DZ,Corporation,BOEING,04/22/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N176UW,Corporation,AIRBUS INDUSTRIE,05/15/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N17719,Corporation,BOEING,02/04/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N17730,Corporation,BOEING,09/23/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N177DN,Corporation,BOEING,01/23/1991,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N177DZ,Corporation,BOEING,05/07/1999,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N177UA,Corporation,BOEING,03/01/2006,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N177US,Corporation,AIRBUS INDUSTRIE,08/22/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,None
+N178DN,Corporation,BOEING,05/22/2007,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N178DZ,Corporation,BOEING,05/24/2000,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N178JB,Corporation,EMBRAER,12/19/2005,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N178UA,Corporation,BOEING,12/27/2005,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N178US,Corporation,AIRBUS INDUSTRIE,06/14/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N17928,Corporation,EMBRAER,11/29/1997,EMB-145EP,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N17984,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N1799U,Corporation,DOUGLAS,12/22/1986,DC-9-31,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1969
+N179DN,Corporation,BOEING,10/10/2007,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N179JB,Corporation,EMBRAER,09/30/2005,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N179UA,Corporation,BOEING,02/23/2006,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N179UW,Corporation,AIRBUS INDUSTRIE,06/23/2005,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N180DN,Corporation,BOEING,02/26/2007,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1992
+N180UA,Corporation,BOEING,02/27/2006,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N180US,Corporation,AIRBUS INDUSTRIE,06/22/2005,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N18101,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N18102,Corporation,EMBRAER,06/24/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N18112,Corporation,BOEING,02/02/1995,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1995
+N18114,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N18119,Corporation,BOEING,05/14/1997,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N18120,Corporation,EMBRAER,01/15/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N181DN,Corporation,BOEING,02/07/2007,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1992
+N181UA,Corporation,BOEING,02/22/2006,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N181UW,Corporation,AIRBUS INDUSTRIE,06/22/2005,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,None
+N18220,Corporation,BOEING,11/06/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N18223,Corporation,BOEING,12/18/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N18243,Corporation,BOEING,10/27/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N182DN,Corporation,BOEING,11/10/1992,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1992
+N182UA,Corporation,BOEING,10/25/1991,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1991
+N182UW,Corporation,AIRBUS INDUSTRIE,06/22/2005,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N18350,Corporation,BOEING,07/18/2006,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N183DN,Corporation,BOEING,05/03/1993,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1993
+N183JB,Corporation,EMBRAER,09/13/2005,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N183UW,Corporation,AIRBUS INDUSTRIE,06/22/2005,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N184AT,Corporation,BOEING,03/24/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N184DN,Corporation,BOEING,12/20/2004,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1993
+N184JB,Corporation,EMBRAER,10/24/2005,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N184US,Corporation,AIRBUS INDUSTRIE,01/31/2002,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2002
+N18556,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N18557,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N185DN,Corporation,BOEING,05/03/1995,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N185UW,Corporation,AIRBUS INDUSTRIE,01/30/2002,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2002
+N18611,Corporation,BOEING,06/15/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N18622,Corporation,BOEING,12/09/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N18658,Corporation,BOEING,06/26/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N186DN,Corporation,BOEING,07/07/1995,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N186US,Corporation,AIRBUS,03/25/2002,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2002
+N187DN,Corporation,BOEING,06/20/1996,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1996
+N187JB,Corporation,EMBRAER,11/09/2005,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N187UA,Corporation,BOEING,09/29/1992,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1992
+N187US,Corporation,AIRBUS,03/27/2002,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2002
+N188DN,Corporation,BOEING,10/18/1996,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1996
+N188US,Corporation,AIRBUS,04/25/2002,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2002
+N18982,Corporation,EMBRAER,10/20/2000,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N189DN,Corporation,BOEING,02/14/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N189UW,Corporation,AIRBUS INDUSTRIE,02/08/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N190DN,Corporation,BOEING,03/27/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N190JB,Corporation,EMBRAER,11/30/2005,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N190UW,Corporation,AIRBUS INDUSTRIE,03/05/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N19117,Corporation,BOEING,04/25/1996,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1996
+N19130,Corporation,BOEING,05/08/1998,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N19136,Corporation,BOEING,03/22/1999,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N19141,Corporation,BOEING,07/03/2000,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N191DN,Corporation,BOEING,04/10/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N191UW,Corporation,AIRBUS INDUSTRIE,03/16/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N192DN,Corporation,BOEING,06/27/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N192JB,Corporation,EMBRAER,12/15/2005,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N192UW,Corporation,AIRBUS INDUSTRIE,05/22/2001,A321-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N19357,Corporation,BOEING,03/22/2001,737-3TO,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N193DN,Corporation,BOEING,08/22/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N193JB,Corporation,EMBRAER,01/05/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N194DN,Corporation,BOEING,10/02/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N19503,Corporation,EMBRAER,10/31/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N19554,Corporation,EMBRAER,05/31/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N195DN,Corporation,BOEING,10/02/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N195UA,Corporation,BOEING,07/17/2007,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N19621,Corporation,BOEING,12/06/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N19623,Corporation,BOEING,01/27/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N19638,Corporation,BOEING,08/01/1997,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N196DN,Corporation,BOEING,11/03/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N196UA,Corporation,BOEING,07/10/2007,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N197DN,Corporation,BOEING,12/24/1997,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N197JB,Corporation,EMBRAER,02/07/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N197UA,Corporation,BOEING,07/12/2007,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N198DN,Corporation,BOEING,02/03/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N198JB,Corporation,EMBRAER,02/21/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N19966,Corporation,EMBRAER,06/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N199DN,Corporation,BOEING,03/05/1998,767-332,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N199UA,Corporation,BOEING,09/17/1997,747-422,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1997
+N200AA,null,null,null,null,null,null,null,null
+N200UU,Corporation,BOEING,12/30/2003,757-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N200WN,Corporation,BOEING,02/17/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N201AA,Co-Owner,CESSNA,04/14/1992,150,Valid,Fixed Wing Single-Engine,Reciprocating,1959
+N201FR,Corporation,AIRBUS,02/07/2008,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N201LV,Corporation,BOEING,03/03/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N201UU,Corporation,BOEING,12/31/2003,757-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N202AA,Corporation,CESSNA,02/12/1996,421C,Valid,Fixed Wing Multi-Engine,Reciprocating,1980
+N202FR,Corporation,AIRBUS,03/06/2008,A320-214,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2008
+N202UA,Corporation,BOEING,03/29/2006,737-322,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N202UW,Corporation,BOEING,01/06/2004,757-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N202WN,Corporation,BOEING,03/09/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N203JB,Corporation,EMBRAER,03/17/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N203UA,Corporation,BOEING,03/29/2006,737-322,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1990
+N203UW,Corporation,BOEING,02/24/2006,757-23N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N203WN,Corporation,BOEING,03/10/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N204UA,Corporation,BOEING,02/04/1999,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N204UW,Corporation,BOEING,02/27/2006,757-23N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N204WN,Corporation,BOEING,03/18/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N205UW,Corporation,BOEING,02/24/2006,757-23N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N205WN,Corporation,BOEING,03/23/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N206JB,Corporation,EMBRAER,04/19/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N206UA,Corporation,BOEING,05/19/1999,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N206UW,Corporation,BOEING,12/30/2003,757-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N206WN,Corporation,BOEING,04/07/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N207AA,Corporation,MCDONNELL DOUGLAS,04/23/2001,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N207WN,Corporation,BOEING,04/13/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N208AA,Corporation,MCDONNELL DOUGLAS,12/30/1999,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N208WN,Corporation,BOEING,04/13/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N209UA,Corporation,BOEING,12/17/1999,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N209WN,Corporation,BOEING,05/05/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N210UA,Corporation,BOEING,02/01/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N210WN,Corporation,BOEING,04/27/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N21108,Corporation,BOEING,11/08/1994,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1994
+N21129,Corporation,EMBRAER,03/28/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N21130,Corporation,EMBRAER,03/28/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N21144,Corporation,EMBRAER,07/24/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N21154,Corporation,EMBRAER,12/10/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N21197,Corporation,EMBRAER,01/11/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N211NE,Corporation,SAAB-SCANIA,10/25/1990,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N211UA,Corporation,BOEING,05/22/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N211WN,Corporation,BOEING,05/10/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N212UA,Corporation,BOEING,07/31/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N212WN,Corporation,BOEING,05/27/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N213UA,Corporation,BOEING,08/16/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N213WN,Corporation,BOEING,06/13/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N214AA,Corporation,MCDONNELL DOUGLAS,01/13/2005,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N214UA,Corporation,BOEING,08/29/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N214WN,Corporation,BOEING,06/22/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N21537,Corporation,EMBRAER,07/10/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N215SW,Corporation,EMBRAER,05/17/1993,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1993
+N215UA,Corporation,BOEING,08/31/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N215WN,Corporation,BOEING,06/20/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N216JB,Corporation,EMBRAER,04/26/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N216SW,Corporation,EMBRAER,09/23/1993,EMB-120,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1993
+N216UA,Corporation,BOEING,07/24/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N216WR,Corporation,BOEING,07/13/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N21723,Corporation,BOEING,04/23/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N217JC,Corporation,BOEING,07/20/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N217SW,Corporation,EMBRAER,10/28/1993,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1993
+N217UA,Corporation,BOEING,08/15/2000,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N218AA,Corporation,MCDONNELL DOUGLAS,12/30/1999,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N218AE,Corporation,SAAB-SCANIA,12/06/1990,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N218SW,Corporation,EMBRAER,09/24/2004,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1994
+N218UA,Corporation,BOEING,01/11/2001,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N218WN,Corporation,BOEING,07/20/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N219AA,Corporation,MCDONNELL DOUGLAS,02/09/2005,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N219AE,Corporation,SAAB-SCANIA,12/13/1990,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N219UA,Corporation,BOEING,06/18/2003,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N219WN,Corporation,BOEING,07/21/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N220SW,Corporation,EMBRAER,02/28/2001,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1994
+N220UA,Corporation,BOEING,06/13/2003,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N220WN,Corporation,BOEING,08/09/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N221SW,Corporation,EMBRAER,07/28/1994,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1994
+N221UA,Corporation,BOEING,06/18/2003,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N221WN,Corporation,BOEING,09/14/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N222UA,Corporation,BOEING,06/17/2003,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N222WN,Corporation,BOEING,09/27/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N223AA,Corporation,MCDONNELL DOUGLAS,03/10/2005,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N223SW,Corporation,EMBRAER,03/13/1995,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N223UA,Corporation,BOEING,09/05/2001,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N223WN,Corporation,BOEING,11/16/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N224SW,Corporation,EMBRAER,03/21/2001,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N224UA,Corporation,BOEING,01/14/2002,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N224WN,Corporation,BOEING,11/21/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N225UA,Corporation,BOEING,01/18/2002,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N225WN,Corporation,BOEING,01/05/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N226SW,Corporation,EMBRAER,12/30/2005,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N226UA,Corporation,BOEING,02/22/2002,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N226WN,Corporation,BOEING,12/15/2005,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N227AA,Corporation,MCDONNELL DOUGLAS,01/09/1984,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N227SW,Corporation,EMBRAER,10/24/1995,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N227UA,Corporation,BOEING,02/22/2002,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N227WN,Corporation,BOEING,01/05/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N228JB,Corporation,EMBRAER,05/22/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N228UA,Corporation,BOEING,03/11/2002,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N228WN,Corporation,BOEING,01/10/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N22909,Corporation,EMBRAER,05/29/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N22971,Corporation,EMBRAER,09/17/1999,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N229JB,Corporation,EMBRAER,06/07/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N229SW,Corporation,EMBRAER,11/20/1995,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N229UA,Corporation,BOEING,04/02/2002,777-222,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N229WN,Corporation,BOEING,02/17/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N230WN,Corporation,BOEING,03/21/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N23139,Corporation,EMBRAER,06/11/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N231JB,Corporation,EMBRAER,06/12/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N231WN,Corporation,BOEING,03/24/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N232AA,Corporation,MCDONNELL DOUGLAS,08/12/2004,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N232AE,Corporation,SAAB-SCANIA,04/03/1991,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1991
+N232SW,Corporation,EMBRAER,12/05/1995,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N232WN,Corporation,BOEING,04/07/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N233AA,Corporation,MCDONNELL DOUGLAS,01/04/2002,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N233LV,Corporation,BOEING,04/19/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N233SW,Corporation,EMBRAER,12/20/1995,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N234AA,Corporation,MCDONNELL DOUGLAS,01/04/2005,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1983
+N234SW,Corporation,EMBRAER,12/11/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N234WN,Corporation,BOEING,05/01/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N235SW,Corporation,EMBRAER,03/19/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,0000
+N235WN,Corporation,BOEING,05/12/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N23657,null,null,null,null,null,null,null,null
+N23661,Corporation,BOEING,07/22/1998,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N236AA,Corporation,MCDONNELL DOUGLAS,01/29/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N236AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1991
+N236JB,Corporation,EMBRAER,06/30/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N236SW,Corporation,EMBRAER,04/22/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N236WN,Corporation,BOEING,05/31/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N23707,Corporation,BOEING,05/28/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N23708,Corporation,BOEING,06/02/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N23721,Corporation,BOEING,03/10/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N237AA,Corporation,MCDONNELL DOUGLAS,01/29/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N237SW,Corporation,EMBRAER,05/22/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N237WN,Corporation,BOEING,06/05/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N238AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N238JB,Corporation,EMBRAER,07/20/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N238WN,Corporation,BOEING,06/27/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N239JB,Corporation,EMBRAER,08/15/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N239WN,Corporation,BOEING,07/06/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N240AT,Corporation,BOEING,04/20/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N240DS,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N240WN,Corporation,BOEING,07/11/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N24103,Corporation,EMBRAER,06/24/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N24128,Corporation,EMBRAER,03/10/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N241AA,Corporation,MCDONNELL DOUGLAS,01/31/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N241WN,Corporation,BOEING,07/31/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N24202,Corporation,BOEING,06/13/2000,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N24211,Corporation,BOEING,07/31/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N24212,Corporation,BOEING,07/02/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N24224,Corporation,BOEING,12/21/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N242AA,Corporation,MCDONNELL DOUGLAS,01/29/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N242WN,Corporation,BOEING,07/17/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N243WN,Corporation,BOEING,07/27/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N244AA,Corporation,MCDONNELL DOUGLAS,02/07/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N244WN,Corporation,BOEING,08/03/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N24517,Corporation,EMBRAER,10/31/2000,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N245AA,Corporation,MCDONNELL DOUGLAS,01/30/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N245AY,Corporation,BOEING,04/24/2007,767-201,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N245WN,Corporation,BOEING,08/08/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N24633,Corporation,BOEING,08/07/1995,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1995
+N246AA,Corporation,MCDONNELL DOUGLAS,01/30/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N246AY,Corporation,BOEING,05/08/2007,767-201,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N246LV,Corporation,BOEING,08/17/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N24702,Corporation,BOEING,04/01/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N24706,Corporation,BOEING,05/26/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N24715,Corporation,BOEING,10/22/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N24729,Corporation,BOEING,07/29/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N24736,Corporation,BOEING,09/28/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N247JB,Corporation,EMBRAER,08/22/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N247WN,Corporation,BOEING,08/15/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N248AA,Corporation,MCDONNELL DOUGLAS,02/06/2008,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N248AY,Corporation,BOEING,08/30/2005,767-201,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N248WN,Corporation,BOEING,08/30/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N249AA,Corporation,MCDONNELL DOUGLAS,08/08/2007,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N249AU,Corporation,BOEING,08/23/2005,767-201,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1987
+N249JB,Corporation,EMBRAER,09/14/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N249WN,Corporation,BOEING,08/30/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N250AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N250AY,Corporation,BOEING,09/13/2005,767-201,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N250WN,Corporation,BOEING,09/07/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N250YV,Corporation,EMBRAER,07/10/1998,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1993
+N25134,Corporation,EMBRAER,04/16/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N251AA,Corporation,MCDONNELL DOUGLAS,08/08/2007,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N251AY,Corporation,BOEING,12/14/2005,767-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1990
+N251WN,Corporation,BOEING,09/13/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N251YV,Corporation,EMBRAER,06/24/1998,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1993
+N252AU,Corporation,BOEING,09/28/2005,767-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1990
+N252WN,Corporation,BOEING,09/13/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N253AA,null,null,null,null,null,null,null,null
+N253AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N253AY,Corporation,BOEING,01/12/2006,767-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1990
+N253WN,Corporation,BOEING,09/26/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N254WN,Corporation,BOEING,09/27/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N25504,Corporation,EMBRAER,10/31/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N255AA,Corporation,MCDONNELL DOUGLAS,02/04/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N255AY,Corporation,BOEING,10/17/2007,767-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1991
+N255WN,Corporation,BOEING,10/13/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N256AY,Corporation,BOEING,09/01/2005,767-2B7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1993
+N256WN,Corporation,BOEING,10/24/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N25705,Corporation,BOEING,05/13/1998,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N257WN,Corporation,BOEING,10/25/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N258AA,Corporation,MCDONNELL DOUGLAS,03/26/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N258JB,Corporation,EMBRAER,10/05/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N258WN,Corporation,BOEING,11/15/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N259AA,Corporation,MCDONNELL DOUGLAS,04/25/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N259WN,Corporation,BOEING,12/05/2006,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N260WN,Corporation,BOEING,01/08/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N26123,Corporation,BOEING,12/19/1997,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N26141,Corporation,EMBRAER,06/26/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N261AT,Corporation,BOEING,06/02/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N261WN,Corporation,BOEING,01/31/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N26208,Corporation,BOEING,08/29/2000,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N26210,Corporation,BOEING,06/24/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N26215,Corporation,BOEING,08/05/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N26226,Corporation,BOEING,12/23/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N262AA,Corporation,MCDONNELL DOUGLAS,05/09/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N262WN,Corporation,BOEING,01/31/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N263AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N263WN,Corporation,BOEING,02/22/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N264LV,Corporation,BOEING,02/28/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N26545,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N26549,Corporation,EMBRAER,05/30/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2002
+N265JB,Corporation,EMBRAER,11/09/2006,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N265WN,Corporation,BOEING,03/12/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N266AA,Corporation,MCDONNELL DOUGLAS,07/29/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N266AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N266JB,Corporation,EMBRAER,02/15/2007,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N266WN,Corporation,BOEING,03/28/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N267AT,Corporation,BOEING,06/29/2005,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N267JB,Corporation,EMBRAER,02/27/2007,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N267WN,Corporation,BOEING,03/30/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N268AT,Corporation,BOEING,08/02/2005,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N268WN,Corporation,BOEING,04/09/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N269WN,Corporation,BOEING,04/12/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N27015,Corporation,BOEING,04/11/2000,777-224,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N270AY,Corporation,AIRBUS INDUSTRIE,03/30/2000,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N270WN,Corporation,BOEING,08/24/2006,737-705,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N270YV,Corporation,EMBRAER,06/24/1998,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1993
+N27152,Corporation,EMBRAER,11/19/2003,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2003
+N27172,Corporation,CANADAIR,04/29/1997,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N27173,Corporation,CANADAIR,04/29/1997,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N27185,Corporation,CANADAIR,12/11/1997,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N27190,Corporation,EMBRAER,08/31/2005,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N27191,Corporation,CANADAIR,01/17/1998,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1997
+N271AA,Corporation,MCDONNELL DOUGLAS,08/07/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N271AY,Corporation,AIRBUS INDUSTRIE,04/19/2000,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,None
+N271WN,Individual,BEECH,04/02/1987,65-A90,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1967
+N271YV,Corporation,EMBRAER,11/16/2000,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1993
+N27200,Corporation,EMBRAER,03/29/2006,EMB-145XR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N27205,Corporation,BOEING,07/25/2000,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N27213,Corporation,BOEING,07/16/1998,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1998
+N27239,Corporation,BOEING,10/18/1999,737-824,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N272AT,Corporation,BOEING,09/20/2005,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N272AY,Corporation,AIRBUS INDUSTRIE,10/18/2007,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N272WN,Corporation,BOEING,04/30/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N27314,Corporation,BOMBARDIER INC,12/27/1999,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N27318,Corporation,BOMBARDIER INC,12/27/1999,CL-600-2B19,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N273AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N273AT,Corporation,BOEING,11/07/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N273AY,Corporation,AIRBUS INDUSTRIE,07/25/2007,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N273JB,Corporation,EMBRAER,06/29/2007,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N273WN,Corporation,BOEING,05/07/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N274AA,Corporation,MCDONNELL DOUGLAS,03/12/2004,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N274AY,Corporation,AIRBUS INDUSTRIE,07/19/2007,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N274JB,Corporation,EMBRAER,06/21/2007,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N274WN,Corporation,BOEING,05/11/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N27506,Corporation,EMBRAER,10/31/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N27512,Corporation,EMBRAER,11/01/2000,EMB-135ER,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N27523,Corporation,EMBRAER,02/22/2001,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N275AY,Corporation,AIRBUS INDUSTRIE,10/25/2005,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2000
+N275WN,Corporation,BOEING,05/23/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N27610,Corporation,BOEING,06/01/1994,737-524,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1994
+N276AT,Corporation,BOEING,11/28/2005,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N276AY,Corporation,AIRBUS INDUSTRIE,10/31/2005,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N276WN,Corporation,BOEING,06/07/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N27722,Corporation,BOEING,04/16/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N27724,Corporation,BOEING,06/02/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N27733,Corporation,BOEING,09/30/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N27734,Corporation,BOEING,09/16/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N277AY,Corporation,AIRBUS INDUSTRIE,02/16/2001,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N277WN,Corporation,BOEING,06/19/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N278AA,Corporation,MCDONNELL DOUGLAS,08/08/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N278AT,Corporation,BOEING,01/03/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N278AY,Corporation,AIRBUS INDUSTRIE,03/01/2001,A330-323,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N278WN,Corporation,BOEING,07/11/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N27962,Corporation,EMBRAER,06/17/1999,EMB-145,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N279AA,Corporation,MCDONNELL DOUGLAS,08/16/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N279AT,Corporation,BOEING,01/09/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2005
+N279JB,Corporation,EMBRAER,07/24/2007,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N279WN,Corporation,BOEING,06/21/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N280WN,Corporation,BOEING,06/26/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N281AT,Corporation,BOEING,01/18/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N281JB,Corporation,EMBRAER,09/18/2007,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N281WN,Corporation,BOEING,07/24/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N282WN,Corporation,BOEING,08/13/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N283AA,Corporation,MCDONNELL DOUGLAS,08/17/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N283AT,Corporation,BOEING,03/10/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N283JB,Corporation,EMBRAER,11/13/2007,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N283WN,Corporation,BOEING,08/16/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N284AT,Corporation,BOEING,03/23/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N284JB,Corporation,EMBRAER,01/23/2008,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N284WN,Corporation,BOEING,08/28/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N284YV,Corporation,EMBRAER,11/16/2000,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1994
+N28518,Corporation,EMBRAER,11/07/2000,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N28529,Corporation,EMBRAER,05/31/2002,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N285AT,Corporation,BOEING,04/24/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N285WN,Corporation,BOEING,08/25/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N286AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N286AT,Corporation,BOEING,05/11/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N286WN,Corporation,BOEING,08/16/2004,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2004
+N287AA,Corporation,MCDONNELL DOUGLAS,09/09/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N287AT,Corporation,BOEING,05/23/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N287WN,Corporation,BOEING,08/25/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N288AT,Corporation,BOEING,06/08/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N288JB,Corporation,EMBRAER,02/01/2008,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2008
+N288SW,Corporation,EMBRAER,11/28/2005,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N288WN,Corporation,BOEING,09/05/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N289AA,Corporation,MCDONNELL DOUGLAS,09/13/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N289AT,Corporation,BOEING,06/15/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N289CT,Corporation,BOEING,09/06/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N289JB,Corporation,EMBRAER,03/06/2008,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N289YV,Corporation,EMBRAER,07/10/1998,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1994
+N290AA,Corporation,MCDONNELL DOUGLAS,09/17/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N290AT,Corporation,BOEING,07/19/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N290JB,Corporation,EMBRAER,02/29/2008,ERJ 190-100 IGW,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2008
+N290SW,Corporation,EMBRAER,07/23/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N290WN,Corporation,BOEING,09/17/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N29124,Corporation,BOEING,01/16/1998,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N29129,Corporation,BOEING,03/27/1998,757-224,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1998
+N291AA,Corporation,MCDONNELL DOUGLAS,09/23/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N291AT,Corporation,BOEING,07/24/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N291SW,Corporation,EMBRAER,07/23/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N291WN,Corporation,BOEING,09/27/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N292AA,Corporation,MCDONNELL DOUGLAS,09/25/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N292AT,Corporation,BOEING,08/18/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N292SW,Corporation,EMBRAER,06/04/2007,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N292UX,Corporation,EMBRAER,11/18/2005,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1994
+N292WN,Corporation,BOEING,10/03/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N293,Corporation,CESSNA,04/18/2007,T337G,Valid,Fixed Wing Multi-Engine,Reciprocating,1975
+N293AA,Corporation,MCDONNELL DOUGLAS,10/07/1985,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N293SW,Corporation,EMBRAER,09/23/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N294SW,Corporation,EMBRAER,09/23/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N294WN,Corporation,BOEING,10/15/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N29515,Corporation,EMBRAER,10/31/2000,EMB-135LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2000
+N295AT,Corporation,BOEING,08/25/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N295SW,Corporation,EMBRAER,11/20/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N295UX,Corporation,EMBRAER,11/18/2005,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N295WN,Corporation,BOEING,11/19/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N296AT,Corporation,BOEING,10/03/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N296SW,Corporation,EMBRAER,11/26/1996,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N296WN,Corporation,BOEING,11/14/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N29717,Corporation,BOEING,01/26/1999,737-724,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1999
+N297AA,Corporation,MCDONNELL DOUGLAS,03/10/1986,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N297SW,Corporation,EMBRAER,03/22/2004,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N297WN,Corporation,BOEING,11/21/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2007
+N298AA,Corporation,MCDONNELL DOUGLAS,03/10/1986,DC-9-82(MD-82),Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N298AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,0000
+N298SW,Corporation,EMBRAER,03/22/2004,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1996
+N298WN,Corporation,BOEING,12/12/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N29906,Corporation,EMBRAER,05/29/2002,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N29917,Corporation,EMBRAER,04/19/2001,EMB-145LR,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N299AT,Corporation,BOEING,10/18/2006,737-76N,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N299SW,Corporation,EMBRAER,05/20/1997,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1997
+N299WN,Corporation,BOEING,12/04/2007,737-7H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,None
+N300AT,Corporation,BOEING,12/11/2006,737-7BD,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2006
+N300SW,Corporation,BOEING,12/18/1984,737-3H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N301AE,Corporation,SAAB-SCANIA,05/15/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,None
+N301NB,Corporation,AIRBUS INDUSTRIE,12/22/1999,A319-114,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N301SW,Corporation,BOEING,01/10/1985,737-3H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N301UA,Corporation,BOEING,11/14/1986,737-322,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1986
+N301US,Corporation,AIRBUS INDUSTRIE,08/01/1989,A320-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1989
+N301YV,Corporation,EMBRAER,04/09/2001,EMB-120ER,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1995
+N302AS,Corporation,BOEING,04/30/2003,737-990,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2003
+N302AW,Corporation,BOEING,06/27/1997,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N302NB,Corporation,AIRBUS INDUSTRIE,12/22/1999,A319-114,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1999
+N302SW,Corporation,BOEING,01/10/1985,737-3H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1984
+N302UA,Corporation,BOEING,01/09/1987,737-322,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1986
+N303AS,Corporation,BOEING,06/26/2001,737-990,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N303AW,Corporation,BOEING,01/23/2002,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N303SW,Corporation,BOEING,05/06/1985,737-3H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N303UA,Corporation,BOEING,01/16/1987,737-322,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1986
+N303US,Corporation,AIRBUS INDUSTRIE,09/07/1989,A320-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1989
+N30401,Corporation,BOEING,05/30/2001,737-924,Valid,Fixed Wing Multi-Engine,Turbo-Fan,2001
+N304AE,Corporation,SAAB-SCANIA,05/18/1998,SAAB 340B,Valid,Fixed Wing Multi-Engine,Turbo-Prop,1992
+N304SW,Corporation,BOEING,09/14/1985,737-3H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N304UA,Corporation,BOEING,02/06/1987,737-322,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1987
+N304US,Corporation,AIRBUS INDUSTRIE,09/05/1989,A320-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1989
+N305AS,Corporation,BOEING,05/17/2001,737-990,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N305AW,Corporation,BOEING,09/14/2000,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1988
+N305SW,Corporation,BOEING,09/18/1985,737-3H4,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1985
+N305UA,Corporation,BOEING,02/10/1987,737-322,Valid,Fixed Wing Multi-Engine,Turbo-Fan,1987
+N305US,Corporation,AIRBUS INDUSTRIE,08/01/1989,A320-211,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1989
+N306AS,Corporation,BOEING,05/24/2001,737-990,Valid,Fixed Wing Multi-Engine,Turbo-Jet,2001
+N306AW,Corporation,BOEING,02/28/2006,737-3G7,Valid,Fixed Wing Multi-Engine,Turbo-Jet,1990
