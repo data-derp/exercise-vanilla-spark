@@ -1,6 +1,5 @@
 from pyspark.sql import *
-from lib.logger import Log4j
-# from lib.utils import *
+# from lib.logger import Log4j
 from config.definitions import DATA_DIR
 
 if __name__ == "__main__":
@@ -10,22 +9,15 @@ if __name__ == "__main__":
         .appName("Spark File Reads") \
         .getOrCreate()
 
-    logger = Log4j(spark)
+    # logger = Log4j(spark)
 
-    logger.info("Starting Spark File Read")
+    # logger.info("Starting Spark File Read")
 
     file_path1 = f"{DATA_DIR}/ratings.csv"
 
     # # should show you only 1 job
     ratings_df = spark.read.csv(file_path1)
-    # ratings_df.show(truncate=False)
-
-    # In fact it will be the same when you keep header equal to true
-    # ratings_df = spark.read \
-    #     .option("header", "True") \
-    #     .csv(file_path1)
-    # #
-    # ratings_df.show(truncate=False)
+    ratings_df.show(truncate=False)
 
     # should show to 2 jobs because of the header and infer schema extra processing
     # ratings_df = spark.read \
@@ -40,8 +32,8 @@ if __name__ == "__main__":
 
     # A simple read will work the same way as above
     # temp_df = spark.read.csv(file_path2)
-    #
-    # # # # # Ditto for the show
+    # #
+    # # # # # # Ditto for the show
     # temp_df.show(truncate=False)
 
     # However, the spark UI will show 2 jobs, one of the header true and other for the inferSchema
@@ -50,8 +42,8 @@ if __name__ == "__main__":
     #     .option("header", "True") \
     #     .option("inferSchema", "True") \
     #     .csv(file_path2)
-
-    # show as before will add a job with one task
+    #
+    # # show as before will add a job with one task
     # temp_df.show(truncate=False)
 
     # Let us check count too, it should give you the count of all the rows
@@ -76,5 +68,5 @@ if __name__ == "__main__":
 
     input("Please ENTER")
 
-    logger.info("Finished Spark File Read")
+    # logger.info("Finished Spark File Read")
     spark.stop()
