@@ -10,7 +10,11 @@ Please also note that for the above command to work, you should have homebrew pa
 - https://brew.sh/
 
 # Python Set up Instructions
-TBD
+The Python version I have used is the latest version  that comes with Anaconda (It's most simple and hassle-free, isn't it ?). So go to the anaconda link below and install the latest version most suitable for your machine processor :-
+
+https://www.anaconda.com/
+
+Once done, open a terminal, type "python" and hit Enter. It should start a python shell !
 
 # Apache Spark Set up Instructions
 
