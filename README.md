@@ -28,6 +28,7 @@ The Apache Spark version that I used for the examples demonstrated use version 3
 6. Open a new terminal and type $SPARK_HOME/bin/spark-shell. The spark shell should start with Spark version 3.0.2. 
 7. You can do the same for pyspark ($SPARK_HOME/bin/pyspark). Please note that in order for pyspark to work, you need to have python installed on your machines as mentioned above
 
-
+# Repo set up in Pycharm
+TBD
 
 
