@@ -23,16 +23,16 @@ The Apache Spark version that I used for the examples demonstrated use version 3
 7. The same can be done for pyspark `$SPARK_HOME/bin/pyspark`. Please note that in order for pyspark to work, you need to have python installed on your machines as mentioned above.<img width="1599" alt="Screenshot 2023-03-10 at 10 32 27 AM" src="https://user-images.githubusercontent.com/60807649/224227963-c43b1548-b459-4e72-9cbe-c862f10dd27e.png">
 
 # Repo set up in Pycharm
-1. Please install PyCharm community edition from this [link](https://www.jetbrains.com/pycharm/download/#section=mac)
-2. Clone this repo on the location of your choice on your machine
+1. Please install PyCharm community edition from this [link](https://www.jetbrains.com/pycharm/download/#section=mac).
+2. Clone this repo on the location of your choice on your machine.
 3. Open the Repo in Pycharm.
-4. Go to your Pycharm Settings, select your project and select the "Python Interpreter" option.
-5. Make sure that you select "No Interpreter" from the dropdown and click "Add Interpreter" and select "Add Local Interpreter"
-6. A dialog box will Pop up. Select the option of "Virtualenv Environment"
-7. In the options on the right-hand side of the same dialog box, select Environment as "New", Location as any suitable location to save python "venv" folder on your local machine, leave the Base Interpreter as default and select "Inherit global site packages"
-8. This should set up your Python Virtual Env for this repo. Double-check your Python interpreter from setting again and make sure that your newly created Python interpreter is selected for the project
-9. Now if your Python Interpreter is created and selected as per the instructions above, you should get a message like "Package requirements 'pyspark...' etc. are not installed". Click on the "install requirement" link to install the plug-ins required for this repo. These plug-ins are listed down in the "requirements.txt" of this repo 
-10. You are all set now to run your first program of this repo. Open File "00 - File Reads.py" from the SRC folder of this repo and run it. It should give you the desired output.
+4. Go to your Pycharm Settings, select your project and select the **Python Interpreter** option.<img width="1243" alt="Repo Set up - 4" src="https://user-images.githubusercontent.com/60807649/224234777-474afe1b-41f6-4338-b6f5-161a8375811c.png">
+5. Make sure that you select **No Interpreter** from the dropdown and click **Add Interpreter** and select **Add Local Interpreter**.
+6. A dialog box will Pop up. Select the option of **Virtualenv Environment**.
+7. In the options on the right-hand side of the same dialog box, select **Environment** as **New**, **Location** as any suitable location to save python "venv" folder on your local machine, leave the **Base Interpreter** as default and select **Inherit global site packages** checkbox.
+8. This should set up your Python Virtual Env for this repo. Double-check your Python interpreter from setting again and make sure that your newly created Python interpreter is selected for the project.
+9. Now if your Python Interpreter is created and selected as per the instructions above, you should get a message like `Package requirements 'pyspark...' etc. are not installed`. Click on the **install requirement** link to install the plug-ins required for this repo. These plug-ins are listed down in the `requirements.txt` of this repo.
+10. You are all set now to run your first program of this repo. Open source file `00 - File Reads.py` from the SRC folder of this repo and run it. It should give you the desired output of the dataframe as shown below.
 
-**PS**: Please note that you don't need a separate Apache Spark installation to run the example of this repo from Pycharm. The PySpark plug-in you have configured above should be sufficient
+**PS**: Please note that you don't need a separate Apache Spark installation on your local machine to run the examples of this repo from Pycharm. The PySpark plug-in you have configured above should be sufficient.
 
