@@ -23,20 +23,15 @@ stocksDF.printSchema()
 
 # Group the data by window and word and compute the count of each group
 windowedWords = stocksDF\
-    .withWatermark("EventTime", "2 minute") \
     .groupBy(window("EventTime", "1 minute"), stocksDF.symbol)\
     .agg(sum("price").alias("totalPrice"))
 
 windowedWords.printSchema()
 
-# outputDF = windowedWords.select("window.start", "window.end", "Symbol", "TotalPrice")
-
-# outputDF.printSchema()
-
 # This is like writing the data to the sink, console in this case
 query = windowedWords \
     .writeStream \
-    .outputMode("update") \
+    .outputMode("complete") \
     .format("console") \
     .option('truncate', 'false') \
     .start()

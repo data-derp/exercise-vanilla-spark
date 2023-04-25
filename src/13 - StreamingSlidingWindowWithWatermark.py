@@ -24,8 +24,8 @@ stocksDF.printSchema()
 # Group the data by window and word and compute the count of each group
 windowedWords = stocksDF\
     .withWatermark("EventTime", "2 minute") \
-    .groupBy(window("EventTime", "1 minute"), stocksDF.symbol)\
-    .agg(sum("price").alias("totalPrice"))
+    .groupBy(window("EventTime", "1 minute", "30 seconds"), stocksDF.symbol)\
+    .agg(max("price").alias("MaximumPrice"))
 
 windowedWords.printSchema()
 
