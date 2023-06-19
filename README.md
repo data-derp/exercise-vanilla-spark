@@ -1,11 +1,43 @@
 # Java Standard Edition Set up Instructions
 
 The Java version that is used for the examples demonstrated on the Spark Shell is Java 8 (specifically "adoptopenjdk8" openjdk ). This can be installed on your machines using the below commands
-```
+```shell
 brew tap AdoptOpenJDK/openjdk 
 brew install --cask adoptopenjdk8
 ```
 Please also note that for the above command to work, homebrew package manager should be installed on your machines. Please refer to this [link](https://brew.sh/) to install it.
+
+Test the currently active Java version: 
+```shell
+java -version
+```
+
+The output should look something like this: 
+```text
+openjdk version "1.8.0_292"
+OpenJDK Runtime Environment (AdoptOpenJDK)(build 1.8.0_292-b10)
+OpenJDK 64-Bit Server VM (AdoptOpenJDK)(build 25.292-b10, mixed mode)
+```
+
+If the version `1.8.0_*` is not displayed, set the Java home to version 1.8:
+```shell
+# print out available versions
+/usr/libexec/java_home -V
+```
+
+Output: 
+```text
+Matching Java Virtual Machines (4):
+    17.0.4 (arm64) "Amazon.com Inc." - "Amazon Corretto 17" /Users/_/Library/Java/JavaVirtualMachines/corretto-17.0.4.1/Contents/Home
+    1.8.371.11 (x86_64) "Oracle Corporation" - "Java" /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
+    1.8.0_292 (x86_64) "AdoptOpenJDK" - "AdoptOpenJDK (JRE) 8" /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jre/Contents/Home
+    1.8.0_292 (x86_64) "AdoptOpenJDK" - "AdoptOpenJDK 8" /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home
+```
+
+Set an explicit version:
+```shell
+export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_292`  
+```
 
 # Python Set up Instructions
 The Python version used is the latest version that comes with Anaconda (it is most simple and hassle-free, isn't it ?). So go to the anaconda link [here](https://www.anaconda.com/) and install the latest version most suitable for your machine processor.Once done, open a terminal, type "python" and hit Enter. It should start a python shell.
