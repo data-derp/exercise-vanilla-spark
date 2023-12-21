@@ -13,7 +13,9 @@ The Python version used is the latest version that comes with Anaconda (it is mo
 
 **Note 1:** Please ensure that all the other python versions are uninstalled 
 
-**Note 2:** If python shell is not starting after Anaconda installation, it could be an aliasing issue. You can execute the below steps to fix it and try again
+**Note 2:** If python shell is not starting after Anaconda installation, it could be an aliasing issue. You can execute the below steps to fix it and try again.
+
+**Note 3:** Please ensure that you are installing Python only via Anaconda installation as mentioned above. Please don't install Python using the downloaded .dmg files.
 
 ```
 # Open your zshrc or bash_profile as appropriate and add the following  
