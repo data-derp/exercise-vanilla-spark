@@ -1,14 +1,28 @@
 # Java Standard Edition Set up Instructions
 
-The Java version that is used for the examples demonstrated on the Spark Shell is Java 8 (specifically "adoptopenjdk8" openjdk ). This can be installed on your machines using the below commands
+The Java version that is used for the examples demonstrated on the Spark Shell is Java 8 (specifically "adoptopenjdk8" openjdk ). This can be installed on your machines using the below commands (Please ensure that all the other java versions are uninstalled before proceeding)
 ```
 brew tap AdoptOpenJDK/openjdk 
 brew install --cask adoptopenjdk8
 ```
 Please also note that for the above command to work, homebrew package manager should be installed on your machines. Please refer to this [link](https://brew.sh/) to install it.
 
+
 # Python Set up Instructions
-The Python version used is the latest version that comes with Anaconda (it is most simple and hassle-free, isn't it ?). So go to the anaconda link [here](https://www.anaconda.com/) and install the latest version most suitable for your machine processor.Once done, open a terminal, type "python" and hit Enter. It should start a python shell.
+The Python version used is the latest version that comes with Anaconda (it is most simple and hassle-free, isn't it ?). So go to the anaconda link [here](https://www.anaconda.com/) and install the latest version most suitable for your machine processor. Once done, open a terminal, type "python" and hit Enter. It should start a python shell.
+
+**Note 1:** Please ensure that all the other python versions are uninstalled 
+
+**Note 2:** If python shell is not starting after Anaconda installation, it could be an aliasing issue. You can execute the below steps to fix it and try again
+
+```
+# Open your zshrc or bash_profile as appropriate and add the following  
+alias python=python3
+
+# Save and close the file and run the following command
+source ~/.zshrc or source ~/.bash_profile as appropriate
+
+```
 
 # Apache Spark Set up Instructions
 
