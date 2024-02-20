@@ -1,11 +1,6 @@
 # Java Standard Edition Set up Instructions
 
-The Java version that is used for the examples demonstrated on the Spark Shell is Java 8 (specifically "adoptopenjdk8" openjdk ). This can be installed on your machines using the below commands (Please ensure that all the other java versions are uninstalled before proceeding)
-```
-brew tap AdoptOpenJDK/openjdk 
-brew install --cask adoptopenjdk8
-```
-Please also note that for the above command to work, homebrew package manager should be installed on your machines. Please refer to this [link](https://brew.sh/) to install it.
+The Java version that is used for the examples demonstrated on the Spark Shell is Java 8. Please download and install the correct java 8 version most suitable for your machine processor (Intel, Apple Silicon etc.) from [here](https://www.oracle.com/in/java/technologies/javase/javase8u211-later-archive-downloads.html). If you already have a java version installed, install Java 8 from the link provided and manage the version using [jenv](https://www.jenv.be) (You might have to install brew and jenv as mentioned in the link). Once done, make sure that your java version is showing version `1.8.x` if you execute `java -version` command from your terminal  
 
 
 # Python Set up Instructions
