@@ -30,8 +30,9 @@ The Apache Spark version that I used for the examples demonstrated use version 3
 3. Set up the location of the folder extracted in step 2 as your `SPARK_HOME` in your `.bash_profile` or `.zshrc` file `export SPARK_HOME="<YOUR_PREFERRED_LOCATION>/spark-3.0.2-bin-hadoop2.7`
 4. Add the `bin` folder of SPARK_HOME to the path. `export PATH="$JAVA_HOME/bin:$SPARK_HOME/bin"`)
 5. You should be good to go now. Echo SPARK_HOME `echo $SPARK_HOME` from your terminal. You should be able to get the path to your spark installation location.
-6. Open a new terminal and type `$SPARK_HOME/bin/spark-shell`. The spark shell should start with Spark version 3.0.2. ![Spark Shell .png](./assets/Spark%20Shell%20.png)
-7. The same can be done for pyspark `$SPARK_HOME/bin/pyspark`. Please note that in order for pyspark to work, you need to have python installed on your machines as mentioned above. ![PySpark Shell.png](assets/PySpark Shell.png)
+6. Open a new terminal and type `$SPARK_HOME/bin/spark-shell`. The spark shell should start with Spark version 3.0.2. ![Spark Shell .png](./assets/Spark%20Shell.png)
+7. The same can be done for pyspark `$SPARK_HOME/bin/pyspark`. Please note that in order for pyspark to work, you 
+   need to have python installed on your machines as mentioned above. ![PySpark Shell.png](./assets/PySpark%20Shell.png)
 
 # Repo set up in Pycharm
 1. Please install PyCharm community edition from this [link](https://www.jetbrains.com/pycharm/download/#section=mac).
