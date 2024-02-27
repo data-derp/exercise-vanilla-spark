@@ -23,6 +23,8 @@ source ~/.zshrc or source ~/.bash_profile as appropriate
 
 # Apache Spark Set up Instructions
 
+**Note 1:** Before you proceed with the Apache Spark local installation here, please note that the exercises in House 9 of data-derp don't need this set up. They are instead done on Pycharm Spark installation of the next section in this readMe. So if you are facing any challenges in doing this Spark local set up, we request you to proceed towards the Pycharm spark installation in the next section and complete the exercises of House 9. You can come back to this set up later on. In case if you have come here after going through Vanilla spark videos and you would like to practice examples on the spark-shell (and you are facing challenges in this local spark set up), we request you to get in touch with your tour guide. 
+
 The Apache Spark version that I used for the examples demonstrated use version 3.0.2. You can set it up on your local machine using the following steps
 
 1. Please download the file named `spark-3.0.2-bin-hadoop2.7.tgz` (It should be ~ 200MB) from this [link](https://archive.apache.org/dist/spark/spark-3.0.2/) at a preferred location on your machine
