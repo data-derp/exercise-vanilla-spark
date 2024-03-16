@@ -1,29 +1,14 @@
 # Java Standard Edition Set up Instructions
 
-The Java version that is used for the examples demonstrated on the Spark Shell is Java 8. Please download and install the correct java 8 version most suitable for your machine processor (Intel, Apple Silicon etc.) from [here](https://www.oracle.com/in/java/technologies/javase/javase8u211-later-archive-downloads.html). If you already have a java version installed, install Java 8 from the link provided and manage the version using [jenv](https://www.jenv.be) (You might have to install brew and jenv as mentioned in the link). Once done, make sure that your java version is showing version `1.8.x` if you execute `java -version` command from your terminal  
+The Java version that is used for the examples demonstrated on the Spark Shell is Java 8. Please download and install the correct java 8 version most suitable for your machine processor (Intel, Apple Silicon etc.) from [here](https://www.oracle.com/in/java/technologies/javase/javase8u211-later-archive-downloads.html). If you already have a java version installed, install Java 8 from the link provided and manage the version using [jenv](https://www.jenv.be) (You might have to install brew and jenv as mentioned in the link). Once done, make sure that your java version is showing version `1.8.x` if you execute `java -version` command from your terminal. 
 
 
 # Python Set up Instructions
-The Python version used is the latest version that comes with Anaconda (it is most simple and hassle-free, isn't it ?). So go to the anaconda link [here](https://www.anaconda.com/) and install the latest version most suitable for your machine processor. Once done, open a terminal, type "python" and hit Enter. It should start a python shell.
-
-**Note 1:** Please ensure that all the other python versions are uninstalled 
-
-**Note 2:** If python shell is not starting after Anaconda installation, it could be an aliasing issue. You can execute the below steps to fix it and try again.
-
-**Note 3:** Please ensure that you are installing Python only via Anaconda installation as mentioned above. Please don't install Python using the downloaded .dmg files.
-
-```
-# Open your zshrc or bash_profile as appropriate and add the following  
-alias python=python3
-
-# Save and close the file and run the following command
-source ~/.zshrc or source ~/.bash_profile as appropriate
-
-```
+We use Python version 3.9 for this set up. Please install it from this [link](https://formulae.brew.sh/formula/python@3.9). You might be having other versions of Python installed on your machine already which should be fine. In the next section, we have provided an environment variable which should help your setup point to Python 3.9.
 
 # Apache Spark Set up Instructions
 
-**Note 1:** Before you proceed with the Apache Spark local installation here, please note that the exercises in House 9 of data-derp don't need this set up. They are instead done on Pycharm Spark installation of the next section in this readMe. So if you are facing any challenges in doing this Spark local set up, we request you to proceed towards the Pycharm spark installation in the next section and complete the exercises of House 9. You can come back to this set up later on. In case if you have come here after going through Vanilla spark videos and you would like to practice examples on the spark-shell (and you are facing challenges in this local spark set up), we request you to get in touch with your tour guide. 
+**Note 1:** Before you proceed with the Apache Spark local installation here, please note that the exercises in House 9 of data-derp don't need this set up. They are instead done on Pycharm Spark installation of the next section of this readMe. So if you are facing any challenges in doing this Spark local set up, we request you to proceed towards the Pycharm spark installation in the next section and complete the exercises of House 9. You can come back to this set up later on. In case if you have come here after going through Vanilla Spark videos, and you would like to practice examples on the spark-shell (and you are facing challenges in this local spark set up), we request you to get in touch with your tour guide to help you out. 
 
 The Apache Spark version that I used for the examples demonstrated use version 3.0.2. You can set it up on your local machine using the following steps
 
@@ -33,8 +18,9 @@ The Apache Spark version that I used for the examples demonstrated use version 3
 4. Add the `bin` folder of SPARK_HOME to the path. `export PATH="$JAVA_HOME/bin:$SPARK_HOME/bin"`)
 5. You should be good to go now. Echo SPARK_HOME `echo $SPARK_HOME` from your terminal. You should be able to get the path to your spark installation location.
 6. Open a new terminal and type `$SPARK_HOME/bin/spark-shell`. The spark shell should start with Spark version 3.0.2. ![Spark Shell .png](./assets/Spark%20Shell.png)
-7. The same can be done for pyspark `$SPARK_HOME/bin/pyspark`. Please note that in order for pyspark to work, you 
-   need to have python installed on your machines as mentioned above. ![PySpark Shell.png](./assets/PySpark%20Shell.png)
+7. Before proceeding, set up `export PYSPARK_PYTHON=python3.9` for your pyspark to point to Python 3.9.
+8. The same can be done for pyspark `$SPARK_HOME/bin/pyspark`. Please note that in order for pyspark to work, you 
+   need to have python installed on your machines as mentioned in the "Python Set up instructions above" above. ![PySpark Shell.png](./assets/PySpark%20Shell.png)
 
 # Repo set up in Pycharm
 1. Please install PyCharm community edition from this [link](https://www.jetbrains.com/pycharm/download/#section=mac).
