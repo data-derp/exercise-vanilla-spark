@@ -23,7 +23,8 @@ The Apache Spark version that I used for the examples demonstrated use version 3
    need to have python installed on your machines as mentioned in the "Python Set up instructions above" above. ![PySpark Shell.png](./assets/PySpark%20Shell.png)
 
 # Repo set up in Pycharm
-1. Please install PyCharm community edition from this [link](https://www.jetbrains.com/pycharm/download/#section=mac).
+1. Please ensure that Python 3.9 is installed from the **Python Set up Instructions** above.
+2. Please install PyCharm community edition from this [link](https://www.jetbrains.com/pycharm/download/#section=mac).
 2. Clone this repo on the location of your choice on your machine.
 3. Open the Repo in Pycharm.
 4. Go to your Pycharm **Settings**, select your project and select the **Python Interpreter** option. ![Pycharm ReadMe Step - 4.png](./assets/Pycharm%20ReadMe%20Step%20-%204.png)
