@@ -25,7 +25,7 @@ stocksDF.printSchema()
 windowedWords = stocksDF\
     .withWatermark("EventTime", "2 minute") \
     .groupBy(window("EventTime", "1 minute"), stocksDF.symbol)\
-    .agg(sum("price").alias("totalPrice"))
+    .agg(max("price").alias("totalPrice"))
 
 windowedWords.printSchema()
 
