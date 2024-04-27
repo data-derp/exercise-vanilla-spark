@@ -1,0 +1,62 @@
+services:
+    spark-master:
+      container_name: spark-master
+      build:
+        context: .
+      image: spark-vanilla
+      entrypoint: [ './entrypoint.sh', 'master' ]
+      healthcheck:
+        test: [ "CMD", "curl", "-f", "http://localhost:8080" ]
+        interval: 5s
+        timeout: 3s
+        retries: 3
+      volumes:
+        - ./src:/opt/spark/src
+        - ./data:/opt/spark/data
+        - ./lib:/opt/spark/lib
+        - spark-logs:/opt/spark/spark-events
+      environment:
+        - STREAMING_APP_HOST=streaming-app
+        - SPARK_NO_DAEMONIZE=true
+      ports:
+        - '4040:4040'
+        - '9090:8080'
+        - '7077:7077'
+
+    spark-worker:
+      image: spark-vanilla
+      container_name: spark-worker
+      entrypoint: [ './entrypoint.sh', 'worker' ]
+      depends_on:
+        - spark-master
+      environment:
+        - STREAMING_APP_HOST=streaming-app
+        - SPARK_NO_DAEMONIZE=true
+      volumes:
+        - ./src:/opt/spark/src
+        - ./data:/opt/spark/data
+        - ./lib:/opt/spark/lib
+        - spark-logs:/opt/spark/spark-events
+      ports:
+        - '8081:8081'
+
+    spark-history-server:
+      container_name: spark-history
+      image: spark-vanilla
+      entrypoint: [ './entrypoint.sh', 'history' ]
+      depends_on:
+        - spark-master
+      environment:
+        - SPARK_NO_DAEMONIZE=true
+      volumes:
+        - spark-logs:/opt/spark/spark-events
+      ports:
+        - '18080:18080'
+
+    streaming-app:
+      container_name: streaming-app
+      image: subfuzion/netcat
+      entrypoint: [ 'tail', '-f', '/dev/null']
+
+volumes:
+  spark-logs:

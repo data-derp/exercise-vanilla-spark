@@ -1,13 +1,9 @@
-from pyspark.sql import *
 # from lib.logger import Log4j
 from config.definitions import DATA_DIR
+from config.spark import init_spark
 
 if __name__ == "__main__":
-    # conf = get_spark_app_config()
-
-    spark = SparkSession.builder \
-        .appName("Spark File Reads") \
-        .getOrCreate()
+    spark = init_spark("File Read")
 
     # logger = Log4j(spark)
 

@@ -1,18 +1,11 @@
-from pyspark.sql import *
-import pyspark.sql.functions as F
-from pyspark.sql.types import *
-from lib.logger import Log4j
 from config.definitions import DATA_DIR, OUTPUT_DIR
+from config.spark import init_spark
+from lib.logger import Log4j
 
 if __name__ == "__main__":
-    spark = SparkSession.builder \
-        .appName("Partitions App ->") \
-        .getOrCreate()
-
-    conf = spark.conf
+    spark = init_spark("PartitionBy Example")
 
     logger = Log4j(spark)
-
     logger.info("STARTED Partition By")
 
     # Paths

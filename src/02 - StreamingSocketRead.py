@@ -1,29 +1,19 @@
-from pyspark.sql import SparkSession
+from config.spark import init_spark, get_socket_stream
 
-spark = SparkSession \
-    .builder \
-    .appName("StructuredNetworkWordCount") \
-    .getOrCreate()
+if __name__ == "__main__":
+    spark = init_spark("PySpark Streaming Socket Read")
 
-spark.sparkContext.setLogLevel("ERROR")
+    # Create DataFrame representing the stream of input lines from connection to localhost:9999
+    # This acts like the source of data
 
-# Create DataFrame representing the stream of input lines from connection to localhost:9999
-# This acts like the source of data
-linesDF = spark \
-    .readStream \
-    .format("socket") \
-    .option("host", "localhost") \
-    .option("port", 9999) \
-    .load()
+    lines_df = get_socket_stream(spark)
+    # linesDF.show
 
-# linesDF.show
+    # This is like writing the data to the sink, console in this case
+    query = lines_df \
+        .writeStream \
+        .outputMode("append") \
+        .format("console") \
+        .start()
 
-
-# This is like writing the data to the sink, console in this case
-query = linesDF \
-    .writeStream \
-    .outputMode("append") \
-    .format("console") \
-    .start()
-
-query.awaitTermination()
+    query.awaitTermination()

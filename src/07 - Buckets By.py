@@ -1,12 +1,9 @@
-from lib.logger import Log4j
-from pyspark.sql import SparkSession
-
 from config.definitions import DATA_DIR
+from config.spark import init_spark
+from lib.logger import Log4j
 
 if __name__ == "__main__":
-    spark = SparkSession.builder \
-        .appName("Spark Buckets") \
-        .getOrCreate()
+    spark = init_spark("BucketsBy Example")
 
     conf = spark.conf
     # conf.set("spark.sql.shuffle.partitions", 2)

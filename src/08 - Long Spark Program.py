@@ -1,11 +1,9 @@
-from pyspark.sql import *
+from config.spark import init_spark
 from lib.logger import Log4j
 
 
 if __name__ == "__main__":
-    spark = SparkSession.builder \
-        .appName("Hello Spark") \
-        .getOrCreate()
+    spark = init_spark("Long Spark Program")
 
     logger = Log4j(spark)
 
