@@ -1,20 +1,13 @@
-from pyspark.sql import *
-
-from pyspark.sql.types import *
-from lib.logger import Log4j
-from pyspark.sql.functions import year, month, dayofmonth
 from pyspark.sql import SparkSession
-from datetime import date, timedelta
-from pyspark.sql.types import IntegerType, DateType, StringType, StructType, StructField
-from config.definitions import DATA_DIR,OUTPUT_DIR
+
+from config.definitions import DATA_DIR, OUTPUT_DIR
+from config.spark import init_spark
+from lib.logger import Log4j
 
 if __name__ == "__main__":
-    spark = SparkSession.builder \
-        .appName("PySpark Repartition Example") \
-        .getOrCreate()
+    spark = init_spark("Repartition Example")
 
     logger = Log4j(spark)
-
     logger.info("STARTED - Repartition Example ")
 
     # Paths

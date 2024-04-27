@@ -1,6 +1,8 @@
 from pyspark.sql import *
 
 from pyspark.sql.types import *
+
+from config.spark import init_spark
 from lib.logger import Log4j
 # from lib.utils import *
 from pyspark.sql.functions import year, month, dayofmonth
@@ -10,9 +12,7 @@ from pyspark.sql.types import IntegerType, DateType, StringType, StructType, Str
 from config.definitions import DATA_DIR, OUTPUT_DIR
 
 if __name__ == "__main__":
-    spark = SparkSession.builder \
-        .appName("PySpark Shuffle Example") \
-        .getOrCreate()
+    spark = init_spark("PySpark Shuffle Partitions")
 
     logger = Log4j(spark)
 

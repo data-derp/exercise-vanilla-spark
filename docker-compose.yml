@@ -13,8 +13,10 @@ services:
       volumes:
         - ./src:/opt/spark/src
         - ./data:/opt/spark/data
+        - ./lib:/opt/spark/lib
         - spark-logs:/opt/spark/spark-events
       environment:
+        - STREAMING_APP_HOST=streaming-app
         - SPARK_NO_DAEMONIZE=true
       ports:
         - '4040:4040'
@@ -28,10 +30,12 @@ services:
       depends_on:
         - spark-master
       environment:
+        - STREAMING_APP_HOST=streaming-app
         - SPARK_NO_DAEMONIZE=true
       volumes:
         - ./src:/opt/spark/src
         - ./data:/opt/spark/data
+        - ./lib:/opt/spark/lib
         - spark-logs:/opt/spark/spark-events
       ports:
         - '8081:8081'
@@ -48,5 +52,11 @@ services:
         - spark-logs:/opt/spark/spark-events
       ports:
         - '18080:18080'
+
+    streaming-app:
+      container_name: streaming-app
+      image: subfuzion/netcat
+      entrypoint: [ 'tail', '-f', '/dev/null']
+
 volumes:
   spark-logs:

@@ -1,28 +1,18 @@
-from pyspark.sql import SparkSession
+from config.spark import init_spark, get_socket_stream
 
-spark = SparkSession \
-    .builder \
-    .appName("TriggerExample") \
-    .getOrCreate()
+if __name__ == "__main__":
+    spark = init_spark("PySpark Streaming Socket Read")
 
-spark.sparkContext.setLogLevel("ERROR")
+    # Create DataFrame representing the stream of input lines from connection to localhost:9999
+    # This acts like the source of data
+    linesDF = get_socket_stream(spark)
 
-# Create DataFrame representing the stream of input lines from connection to localhost:9999
-# This acts like the source of data
-linesDF = spark \
-    .readStream \
-    .format("socket") \
-    .option("host", "localhost") \
-    .option("port", 9999) \
-    .load()
+    # This is like writing the data to the sink, console in this case
+    query = linesDF \
+        .writeStream \
+        .outputMode("append") \
+        .format("console") \
+        .trigger(processingTime='15 seconds') \
+        .start()
 
-
-# This is like writing the data to the sink, console in this case
-query = linesDF \
-    .writeStream \
-    .outputMode("append") \
-    .format("console") \
-    .trigger(processingTime='15 seconds') \
-    .start()
-
-query.awaitTermination()
+    query.awaitTermination()

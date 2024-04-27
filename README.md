@@ -22,6 +22,7 @@ The docker build use below tech-stack:
    - Spark Master - This is a spark master service, where all the spark jobs will be submitted
    - Spark Worker - This will setup spark executor nodes, which will connect with spark master
    - Spark History Server [Optional] - This will setup spark history server, keep track of spark jobs
+   - Streaming App [Optional] - This will setup a small streaming app required for some exercises
 
    If Spark History Server is not required, you can comment out the service in `docker-compose.yml` file or can run below command
    ```shell
@@ -29,17 +30,34 @@ The docker build use below tech-stack:
     ```
    Since worker is dependent on master, it will start the master service as well.
 
-4. You can run the spark job using below command
+4. You can run streaming exercises using below command [Required for streaming exercises only]
+   ```shell
+   docker-compose up -d streaming-app
+   docker-compose exec streaming-app sh
+   >> nc -lk 9999
+   >> this is a test string
+    ```
+
+   docker compose exec will open a shell in the streaming app container. You can run the `nc -lk 9999` command to start the
+   streaming server. You can then push the data to the server by typing the data in the terminal. The data will be processed
+   by the streaming app and you can see the output in the terminal.
+
+5. In new terminal tab, you can now run the spark job using below command
    ```shell
     docker-compose exec spark-master spark-submit ./src/<file-name>
     ```
-5. Once the services are up and running, you can access the spark master UI using below URL
+6. Once the services are up and running, you can access the spark master UI using below URL
    ```shell
     http://localhost:9090
     ```
-6. You can access the spark history server using below URL
+7. You can access the spark history server using below URL
    ```shell
     http://localhost:18080
+    ```
+
+8. Clean up the docker containers using below command
+   ```shell
+    docker-compose down -v
     ```
 
 # Setting up PySpark locally

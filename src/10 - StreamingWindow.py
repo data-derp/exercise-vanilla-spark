@@ -1,41 +1,33 @@
-from pyspark.sql import SparkSession
+from pyspark.sql.functions import current_timestamp
 from pyspark.sql.functions import explode
 from pyspark.sql.functions import split
-from pyspark.sql.functions import current_timestamp
 from pyspark.sql.functions import window
 
+from config.spark import init_spark, get_socket_stream
 
-spark = SparkSession \
-    .builder \
-    .appName("StructuredNetworkWordCount") \
-    .getOrCreate()
+if __name__ == "__main__":
+    spark = init_spark("StructuredNetworkWordCountWindowed")
 
-spark.sparkContext.setLogLevel("ERROR")
+    socketStreamDF = get_socket_stream(spark)
 
-socketStreamDF = spark.readStream \
-    .format("socket") \
-    .option("host", "localhost") \
-    .option("port", 9999) \
-    .load()
+    currentTimeDF = socketStreamDF.withColumn("processingTime", current_timestamp())
 
-currentTimeDF = socketStreamDF.withColumn("processingTime", current_timestamp())
+    # Split the lines into words
+    wordsDF = currentTimeDF.select(
+       explode(
+           split(currentTimeDF.value, " ")
+       ).alias("word"), currentTimeDF.processingTime.alias("Time"))
 
-# Split the lines into words
-wordsDF = currentTimeDF.select(
-   explode(
-       split(currentTimeDF.value, " ")
-   ).alias("word"), currentTimeDF.processingTime.alias("Time"))
+    windowedWords = wordsDF\
+        .groupBy(window(wordsDF.Time, "1 minute"), wordsDF.word)\
+        .count().orderBy("window")
 
-windowedWords = wordsDF\
-    .groupBy(window(wordsDF.Time, "1 minute"), wordsDF.word)\
-    .count().orderBy("window")
+    # Start running the query that prints the running counts to the console
+    query = windowedWords \
+        .writeStream \
+        .outputMode("complete") \
+        .format("console") \
+        .option("truncate", "false") \
+        .start()
 
-# Start running the query that prints the running counts to the console
-query = windowedWords \
-    .writeStream \
-    .outputMode("complete") \
-    .format("console") \
-    .option("truncate", "false") \
-    .start()
-
-query.awaitTermination()
+    query.awaitTermination()
