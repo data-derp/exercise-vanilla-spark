@@ -17,7 +17,8 @@ if __name__ == "__main__":
 
     # # should show you only 1 job
     ratings_df = spark.read.csv(file_path1)
-    ratings_df.show(truncate=False)
+    # ratings_df.show(truncate=False)
+    # ratings_df.collect()
 
     # should show to 2 jobs because of the header and infer schema extra processing
     # ratings_df = spark.read \

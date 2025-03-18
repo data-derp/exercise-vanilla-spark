@@ -42,7 +42,7 @@ spark.conf.set("spark.sql.shuffle.partitions", "3")
 # Start running the query that prints the running counts to the console
 query = wordCounts \
     .writeStream \
-    .outputMode("complete") \
+    .outputMode("update") \
     .format("console") \
     .start()
 

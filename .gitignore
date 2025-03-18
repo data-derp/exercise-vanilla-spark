@@ -7,3 +7,5 @@
 /.DS_Store
 /lib/__pycache__
 /src/config/__pycache__
+.databricks
+.vscode
