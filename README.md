@@ -36,4 +36,5 @@ The Apache Spark version that I used for the examples demonstrated use version 3
 10. You are all set now to run your first program of this repo. Open source file `00 - File Reads.py` from the SRC folder of this repo and run it. It should give you the desired output of the dataframe as shown below. ![Pycharm ReadMe Step - 10.png](./assets/Pycharm%20ReadMe%20Step%20-%2010.png)
 
 **PS**: Please note that you don't need a separate Apache Spark installation on your local machine to run the examples of this repo from Pycharm. The PySpark plug-in you have configured above should be sufficient.
+**PS2**:In step above, if you get an error like `Administrator privileges are required to install into the specified directory`, please run the command `pip install -r requirements.txt` from the root of your repo from command line
 
